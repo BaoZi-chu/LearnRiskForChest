@@ -37,7 +37,7 @@ folder
     |       |    |—— train.csv
     |       |—— pair_info_more.csv
     |
-    |—— risk_dataset  # 用于给天伟风险分析的输入
+    |—— risk_dataset  # 用于风险分析的输入
     |       |—— all_data_info.csv
     |       |—— train.csv
     |       |—— val.csv
